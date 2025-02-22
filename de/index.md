@@ -38,7 +38,7 @@ lang: de
           <h2>Leistung</h2> Express bietet eine Thin-Layer-Ebene mit grundlegenden Webanwendungsfunktionen, ohne die bekannten Node.js-Features zu überlagern. </div>
 
       <div id="sponsorship">
-          <a href="http://loopback.io/"><h2>LoopBack</h2> Entwickeln Sie modellorientierte Anwendungen mit einem Express-basierten Framework.<br/>Weitere Informationen finden Sie unter loopback.io.</a>
+          <h2><a href="http://loopback.io/">LoopBack</a></h2> <a href="http://loopback.io/">Entwickeln Sie modellorientierte Anwendungen mit einem Express-basierten Framework.<br/>Weitere Informationen finden Sie unter loopback.io.</a>
       </div>
   </div>
 
